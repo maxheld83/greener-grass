@@ -1,5 +1,7 @@
 **The Grass, its Green, and the Other Side – Comparative Social Sciences of Democracy, Welfare, Media, Administration, Political Culture and Economy**
 
+*An (undergraduate) seminar in planning.*
+
 ![Greener Grass and Industrialisation](http://dl.dropboxusercontent.com/u/5341489/images/greener-grass-industrialisation.jpg)
 > by [Stefan Tan](http://www.flickr.com/photos/_stefano_/11750989515/) under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
