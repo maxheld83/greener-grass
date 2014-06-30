@@ -1,7 +1,7 @@
 **The Grass, its Green, and the Other Side – Comparative Social Sciences of Democracy, Welfare, Media, Administration, Political Culture and Economy**
 
-![Greener Grass and Industrialisation](http://dl.dropboxusercontent.com/u/5341489/images/greener-grass-industrialisation)
-by [Stefan Tan](http://www.flickr.com/photos/_stefano_/11750989515/) under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+![Greener Grass and Industrialisation](http://dl.dropboxusercontent.com/u/5341489/images/greener-grass-industrialisation.jpg)
+> by [Stefan Tan](http://www.flickr.com/photos/_stefano_/11750989515/) under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 
 ## Course Description
@@ -25,17 +25,11 @@ Beneath these trade-offs may lurk some of the inevitable choices in modern insti
 | Institution | Genesis | Comparison | Normative Theory |
 |:-----------------|:---------------|:---------------------|:-----------------------|
 | *Democracy* | Tilly 1985? | Lijphart 1999/2012 | Dahl 1989, Cohen 1989 |
-|----
 | *Welfare State* | Rimlinger 1971 | Esping-Andersen 1990 | Rawls 1971 |
-|----
 | *Media Systems* | ? | Hallin/Mancini 2004 | Habermas 2012 |
-|----
 | *Administration* | Weber 1920? | Hood 1998? | Schwarz & Sharpe 2010 |
-|----
 | *Political Culture* | Putnam et al. 1983 | Inglehart/Welzel 2005 | de Tocqueville? |
-|----
 | *Economic System* | Mankiw | Hall/Soskice 2001 | Hayek 1944, Krugman 2008? |
-|=====
 
 - Cohen, J. (1989). Deliberation and Democratic Legitimacy. In A. Hamlin & P. Pettit (Eds.), The Good Polity - Normative Analysis of the State. Oxford, UK: Blackwell.
 - Dahl, R. A. (1989). Democracy and its Critics. Book. New Haven, CT: Yale University Press.
